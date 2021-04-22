@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-# My name is Daniel Park, and I'm a full-stack software engineer!
+My name is Daniel Park, and I'm a full-stack software engineer!
 
 - 🔭 I’m currently working on improving my understanding of DS&A!
 - 🌱 I’m currently learning typescript!
