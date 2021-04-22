@@ -1,10 +1,10 @@
 ### [![hellothere.jpg](https://i.postimg.cc/wTL36671/hellothere.jpg)](https://postimg.cc/Whps8cmV)
 
-🔭 I’m currently working on improving my understanding of DS&A!
-🌱 I’m currently learning typescript!
-👯 I’m looking to collaborate on a new project, so reach out!
-💬 Ask me about anything that you want!
-📫 How to reach me: danielpark0503@gmail.com
+- 🔭 I’m currently working on improving my understanding of DS&A!
+- 🌱 I’m currently learning typescript!
+- 👯 I’m looking to collaborate on a new project, so reach out!
+- 💬 Ask me about anything that you want!
+- 📫 How to reach me: danielpark0503@gmail.com
 
 
 
