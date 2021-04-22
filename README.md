@@ -1,4 +1,4 @@
-### ![Hello There]<img src='https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif'/>
+### <img src='https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif'/>
 
 ## Welcome to my GitHub!
 
