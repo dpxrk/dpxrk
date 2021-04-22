@@ -1,4 +1,4 @@
-### [![hellothere.jpg](https://i.postimg.cc/wTL36671/hellothere.jpg)](https://postimg.cc/Whps8cmV)
+### ![Hello There]<img src='https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif'/>
 
 ## Welcome to my GitHub!
 
