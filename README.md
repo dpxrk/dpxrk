@@ -26,5 +26,7 @@ My name is Daniel Park, and I'm a full-stack software engineer!
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
 
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
+
 
 
