@@ -29,7 +29,7 @@ My name is Daniel Park, and I'm a full-stack software engineer!
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxrk&theme=radical&layout=compact)](https://github.com/dpxrk/github-readme-stats)
 
 
 
