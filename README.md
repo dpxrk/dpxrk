@@ -5,7 +5,7 @@
 My name is Daniel Park, and I'm a full-stack software engineer!
 
 * 🔭 I’m currently working on improving my understanding of DS&A!
-* 🌱 I’m currently learning typescript!
+* 🌱 I’m currently learning typescript & c++!
 * 👯 I’m looking to collaborate on a new project, so reach out!
 * 💬 Ask me about anything that you want!
 * 📫 How to reach me: danielpark0503@gmail.com
