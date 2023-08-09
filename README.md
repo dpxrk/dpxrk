@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub!
 
-My name is Daniel Park, and I'm a full-stack software engineer working for Visionable Global.
+My name is Daniel Park, and I'm a full-stack software engineer looking for work!
 
-<!-- * 🔭 I’m currently working on improving my understanding of DS&A! -->
+* 🔭 I’m currently working on improving my understanding of DS&A!
 <!-- * 🌱 I’m currently learning Java.
 * 👯 I’m looking to collaborate on a new project, so reach out! -->
 * 💬 Ask me about anything that you want!
