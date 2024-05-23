@@ -3,7 +3,7 @@
 ## Welcome to my GitHub!
 
 My name is Daniel Park, and I'm a full-stack software engineer looking for his next opportunity.
-Currently enrolled to Steven's Institute Of Technology for a Masters in Computer Science.
+* Currently enrolled to Steven's Institute Of Technology for a Masters in Computer Science.
 
 * 🔭 I’m currently working on improving my understanding of DS&A!
 * 🌱 I’m currently learning Java.
