@@ -2,11 +2,12 @@
 
 ## Welcome to my GitHub!
 
-My name is Daniel Park, and I'm a full-stack software engineer looking for work!
+My name is Daniel Park, and I'm a full-stack software engineer looking for his next opportunity.
+Currently enrolled to Steven's Institute Of Technology for a Masters in Computer Science.
 
 * 🔭 I’m currently working on improving my understanding of DS&A!
-<!-- * 🌱 I’m currently learning Java.
-* 👯 I’m looking to collaborate on a new project, so reach out! -->
+* 🌱 I’m currently learning Java.
+* 👯 I’m looking to collaborate on a new project, so reach out!
 * 💬 Ask me about anything that you want!
 * 📫 How to reach me: danielpark0503@gmail.com
 
@@ -24,7 +25,7 @@ My name is Daniel Park, and I'm a full-stack software engineer looking for work!
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
-<img height="60" src='[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)'> <addr>
+<img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png'> <addr>
 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
