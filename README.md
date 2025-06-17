@@ -28,9 +28,6 @@ Currently enrolled to Steven's Institute Of Technology for a Masters in Computer
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png'> <addr>
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpxrk&theme=radical)](https://github.com/dpxrk/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxrk&theme=radical&layout=compact)](https://github.com/dpxrk/github-readme-stats)
 
 
