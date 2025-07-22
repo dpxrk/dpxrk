@@ -5,9 +5,9 @@
 My name is Daniel Park, and I'm a full-stack software engineer looking for his next opportunity. <br/>
 Currently enrolled to Steven's Institute Of Technology for a Masters in Computer Science.
 
-* 🔭 I’m currently working on improving my understanding of DS&A!
+* 🔭 I’m currently working on my personal project Pactwise!
 * 🌱 I’m currently exploring AI/ML.
-* 👯 I’m looking to collaborate on a new project, so reach out!
+* 👯 I’m always looking to collaborate on a new project, so reach out!
 * 💬 Ask me about anything that you want!
 * 📫 How to reach me: danielpark0503@gmail.com
 
