@@ -5,7 +5,7 @@
 My name is Daniel Park, and I'm a full-stack software engineer looking for his next opportunity. <br/>
 Currently enrolled to Steven's Institute Of Technology for a Masters in Computer Science.
 
-* 🔭 I’m currently working on my personal project Pactwise!
+* 🔭 I’m currently working on my personal project Pactwise - An AI - Power contract-vendor repository.
 * 🌱 I’m currently exploring AI/ML.
 * 👯 I’m always looking to collaborate on a new project, so reach out!
 * 💬 Ask me about anything that you want!
